@@ -1,0 +1,100 @@
+[
+    {
+        "id": 301,
+        "nutritionInfo": {
+            "Energy": "24 kJ /149kcal",
+            "Fat": "6.7g",
+            "of which saturates": "4.3g",
+            "Carbohydrate": "19g",
+            "of which sugars": "17g",
+            "Protein": "2.9g",
+            "Salt": "0.37g"
+        },
+        "itemImg": "choclate.png",
+        "title": "PLANT BASED CHOCOLATE SHAKE",
+        "subtitle": "MADE WITH FRESH CREAM",
+        "ingredients":"Water, coconut milk, sugar, maltodextrin, low fat cocoa powder (1.9%), stabilisers (carboxymethylcellulose, cellulose), vanilla extract, salt. May contain traces of allergens: milk and gluten."
+    },
+    {
+        "id": 302,
+        "nutritionInfo": {
+            "Energy": "488 kJ/ 116 Kcal",
+            "Fat": "6.1g",
+            "of which saturates": "3.7g",
+            "Carbohydrate": "12g",
+            "of which sugars": "12g",
+            "Protein": "2.9g",
+            "Salt": "0.10g"
+            
+        },
+        "itemImg": "choclateCustard.png",
+        "title": "BELGIAN CHOCOLATE CUSTARD",
+        "subtitle": "WITH FAIRLY TRADED BEANS",
+        "ingredients":"Water, skimmed milk powder, sugar, modified starch, Belgian chocolate (2.5%) [sugar, cocoa mass, cocoa butter, emulsifier (soya lecithin), natural flavouring], double cream (milk), fat reduced cocoa powder.     "
+    },
+    {
+        "id": 303,
+        "nutritionInfo": {
+            "Energy": "608 kJ 145 kcal",
+            "Fat": "6.8 g",
+            "of which saturates": "4.7 g",
+            "Carbohydrate": "18 g",
+            "of which sugars": "16 g",
+            "Protein": "2.9 g",
+            "Salt": "0.27 g"
+        },
+        "itemImg": "choclateMilkshake.png",
+        "title": "CHOCOLATE MILKSHAKE",
+        "subtitle": "CHOCOLATE MILKSHAKE",
+        "ingredients":"Whole milk (67%) Semi skimmed milk, water, sugar, fat reduced cocoa powder (1.6%), Belgian chocolate powder (sugar, cocoa mass, fat reduced cocoa powder, natural vanilla flavouring), stabilisers (carboxymethylcellulose), salt. For allergens see ingredients in bold. Always check your packaging for the most up to date information. "
+    },
+    {
+        "id": 304,
+        "nutritionInfo": {
+            "Energy": "488 kJ/ 117kcal",
+            "Fat": "5.34g",
+            "of which saturates": "4.8g",
+            "Carbohydrate": "15g",
+            "of which sugars": "9.5g",
+            "Protein": "0.7g",
+            "Salt": "0.08g"
+        },
+        "itemImg": "madagascanVanilla.png",
+        "title": "MADAGASCAN VANILLA CUSTARD",
+        "subtitle": "WITH BOURBON VANILLA",
+        "ingredients":"Water, skimmed milk powder, sugar, double cream (milk), modified starch, Madagascan bourbon vanilla extract, cream powder (milk), colour (beta-carotene).      "
+    },
+   
+    {
+        "id": 306,
+        "nutritionInfo": {
+            "Energy": "566 kJ 135 kcal",
+            "Fat": "7.1 g",
+            "of which saturates": "4.3 g",
+            "Carbohydrate": "15 g",
+            "of which sugars": "15 g",
+            "Protein": "2.7 g",
+            "Salt": "0.3 g"
+        },
+        "itemImg": "strawberryCoulis.png",
+        "title": "STRAWBERRY COULIS",
+        "subtitle": "WITH ENGLISH SEA SALT",
+        "ingredients":"invert sugar syrup, strawberries (36%), water, cornflour, concentrated lemon juice, acidity regulator (citric acid), preservative (potassium sorbate)."
+    },
+    {
+        "id": 307,
+        "nutritionInfo": {
+            "Energy": "566 kJ 135 kcal",
+            "Fat": "7.1 g",
+            "of which saturates": "4.3 g",
+            "Carbohydrate": "15 g",
+            "of which sugars": "15 g",
+            "Protein": "2.7 g",
+            "Salt": "0.3 g"
+        },
+        "itemImg": "whiteCoffee.png",
+        "title": "FLAT WHITE COFFEE",
+        "subtitle": "WITH ENGLISH SEA SALT",
+        "ingredients":"Semi skimmed milk (82%), coffee (13.6%) (water, arabica coffee extract), sugar, stabilisers (carboxymethylcellulose, cellulose), acidity regulator (sodium bicarbonate). For allergens see ingredients in bold. Always check your packaging for the most up to date information. "
+    }
+]

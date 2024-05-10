@@ -1,0 +1,100 @@
+[
+    {
+        "id": 101,
+        "nutritionInfo": {
+            "Energy": "24 kJ /149kcal",
+            "Fat": "6.7g",
+            "of which saturates": "4.3g",
+            "Carbohydrate": "19g",
+            "of which sugars": "17g",
+            "Protein": "2.9g",
+            "Salt": "0.37g"
+        },
+        "iceCreamImg": "caramelCookieDoughBrownie.png",
+        "title": "CARAMEL COOKIE DOUGH BROWNIE",
+        "subtitle": "MADE WITH FRESH CREAM",
+        "ingredients":"Fresh whole milk, sugar, salted butter caramel sauce (10%) (milk) [sweetened condensed skimmed milk, sugar, water, glucose syrup, salted butter (milk), salt], fresh double cream (milk) (8%), skimmed milk powder, cookie dough pieces (4%) [wheat flour, sugar, salted butter (milk), brown sugar, water, dark chocolate chips (cocoa mass, sugar, cocoa butter, anhydrous milk fat, emulsifier (soya lecithin), natural vanilla flavouring), invert sugar syrup, free range whole egg powder, salt, natural flavourings], brownie pieces (4%) [sugar, salted butter (milk), wheat flour, fructose, fat reduced cocoa powder, fat reduced cocoa powder alkalised, brown sugar, humectant (glycerol), salt], dextrose, coconut oil, emulsifiers (mono- and diglycerides of fatty acids), stabilisers (locust bean gum, guar gum), burnt sugar, sea salt, natural flavouring, pasteurised free range egg yolk."
+    },
+    {
+        "id": 102,
+        "nutritionInfo": {
+            "Energy": "488 kJ/ 116 Kcal",
+            "Fat": "6.1g",
+            "of which saturates": "3.7g",
+            "Carbohydrate": "12g",
+            "of which sugars": "12g",
+            "Protein": "2.9g",
+            "Salt": "0.10g"
+        },
+        "iceCreamImg": "flatWhiteCofee.png",
+        "title": "FLAT WHITE COFFEE",
+        "subtitle": "WITH FAIRLY TRADED BEANS",
+        "ingredients":"fresh whole milk, fresh double cream (milk) (13%), sugar, skimmed milk powder, pasteurised free range egg yolk, fairly traded Colombian Arabica coffee (1.7%), dextrose, stabilisers (locust bean gum and guar gum)."
+
+    
+    },
+    {
+        "id": 103,
+        "nutritionInfo": {
+            "Energy": "608 kJ 145 kcal",
+            "Fat": "6.8 g",
+            "of which saturates": "4.7 g",
+            "Carbohydrate": "18 g",
+            "of which sugars": "16 g",
+            "Protein": "2.9 g",
+            "Salt": "0.27 g"
+        },
+        "iceCreamImg": "gooeyChocolateBrownie.png",
+        "title": "GOOEY CHOCOLATE BROWNIE",
+        "subtitle": "WITH A BROWNIE PIECES AND CHOCOLATE SWIRL",
+        "ingredients":"Fresh whole milk, sugar, salted butter (milk) caramel sauce (11%) [sweetened condensed skimmed milk, sugar, water, glucose syrup, salted butter (milk), salt], brownie pieces (5%) [sugar, salted butter (butter (milk), salt), wheat flour, fructose, fat-reduced cocoa powder,  sugar, fat-reduced cocoa powder alkalised, whole egg powder, humectant (glycerol), salt], double cream (milk) (5%), skimmed milk powder, chocolate powder (3%) (sugar, cocoa mass, fat-reduced cocoa powder, natural vanilla flavouring), coconut oil, cocoa powder, dextrose, fat-reduced cocoa powder, emulsifier (mono- and diglycerides of fatty acids), stabilisers (locust bean gum and guar gum), vanilla extract, pasteurised egg yolk."
+    },
+    {
+        "id": 104,
+        "nutritionInfo": {
+            "Energy": "488 kJ/ 117kcal",
+            "Fat": "5.34g",
+            "of which saturates": "4.8g",
+            "Carbohydrate": "15g",
+            "of which sugars": "9.5g",
+            "Protein": "0.7g",
+            "Salt": "0.08g"
+        },
+        "iceCreamImg": "madagascanVanilla.png",
+        "title": "PLANT BASED MADAGASCAN VANILLA",
+        "subtitle": "WITH BOURBON VANILLA",
+        "ingredients":"water, glucose syrup, sugar, vegetable fat (coconut), soluble corn fibre, fava bean protein, emulsifiers (mono- and diglycerides of fatty acids), bourbon vanilla extract, carrot concentrate, stabilisers (locust bean gum, guar gum), natural flavouring, spent bourbon vanilla powder, sea salt."
+    },
+    {
+        "id": 105,
+        "nutritionInfo": {
+            "Energy": "606 kJ 145 kcal",
+            "Fat": "9.0 g",
+            "of which saturates": "5.5 g",
+            "Carbohydrate": "13 g",
+            "of which sugars": "13 g",
+            "Protein": "2.7 g",
+            "Salt": "0.13 g"
+        },
+        "iceCreamImg": "vanilaClottedCream.png",
+        "title": "VANILLA CLOTTED CREAM",
+        "subtitle": "WITH WEST COUNTRY CLOTTED CREAM",
+        "ingredients":"Whole milk, sugar, clotted cream (milk) (12%), double cream (milk), skimmed milk powder, pasteurised free range egg yolk, dextrose, stabilisers (locust bean gum and guar gum), vanilla extract, vanilla pods."
+    },
+    {
+        "id": 106,
+        "nutritionInfo": {
+            "Energy": "566 kJ 135 kcal",
+            "Fat": "7.1 g",
+            "of which saturates": "4.3 g",
+            "Carbohydrate": "15 g",
+            "of which sugars": "15 g",
+            "Protein": "2.7 g",
+            "Salt": "0.3 g"
+        },
+        "iceCreamImg": "saltedCaramel.png",
+        "title": "SALTED CARAMEL",
+        "subtitle": "WITH ENGLISH SEA SALT",
+        "ingredients":"Fresh whole milk, fresh double cream (milk) (16%), caramel (13%) (sweetened condensed milk, glucose-fructose syrup, sugar, water), sugar, skimmed milk powder, pasteurised free range egg yolk, burnt sugar syrup, English sea salt, stabilisers (locust bean gum and guar gum)."
+    }
+]

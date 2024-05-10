@@ -1,0 +1,48 @@
+[
+    {
+        "id": 201,
+        "nutritionInfo": {
+            "Energy": "24 kJ /149kcal",
+            "Fat": "6.7g",
+            "of which saturates": "4.3g",
+            "Carbohydrate": "19g",
+            "of which sugars": "17g",
+            "Protein": "2.9g",
+            "Salt": "0.37g"
+        },
+        "itemImg": "fruitRockets.png",
+        "title": "LOWER SUGAR FRUIT ROCKETS",
+        "ingredients":"Water, apple extract, apple juice from concentrate (7,9%), carrot juice from concentrate (3,9%), orange juice from concentrate (3,0%), raspberry puree (2,7%), spinach juice from concentrate (1,8%), beetroot juice from concentrate (1,3%), stabiliser: locust bean gum, acidity regulator: citric acid, natural flavourings, spirulina concentrate, safflower concentrate, orange extract, lemon juice concentrate. For allergens see ingredients in bold. "
+       
+    },
+    {
+        "id": 202,
+        "nutritionInfo": {
+            "Energy": "488 kJ/ 116 Kcal",
+            "Fat": "6.1g",
+            "of which saturates": "3.7g",
+            "Carbohydrate": "12g",
+            "of which sugars": "12g",
+            "Protein": "2.9g",
+            "Salt": "0.10g"
+        },
+        "itemImg": "milklollies.png",
+        "title": "LOWER SUGAR MILK LOLLIES",
+        "ingredients":"Reconstituted whole milk (78%), oligofructose, water, sugar, stabilisers (guar gum and carob gum), gelling agent (pectin), natural flavouring, vitamin D3.Reconstituted whole milk (73%), strawberry puree (10%), oligofructose, sugar, whole milk powder, stabilisers (guar gum and carob gum), gelling agent (pectin), beetroot juice concentrate, natural flavouring, vitamin D3.Reconstituted whole milk (74%), oligofructose, water, sugar, fat- reduced cocoa powder (1.2%), stabilisers (guar gum and carob gum), gelling agent (pectin), vitamin D3."
+    },
+    {
+        "id": 203,
+        "nutritionInfo": {
+            "Energy": "608 kJ 145 kcal",
+            "Fat": "6.8 g",
+            "of which saturates": "4.7 g",
+            "Carbohydrate": "18 g",
+            "of which sugars": "16 g",
+            "Protein": "2.9 g",
+            "Salt": "0.27 g"
+        },
+        "itemImg": "watermelonRockets.png",
+        "title": "LOWER SUGAR WATERMELON ROCKETS",
+        "ingredients":"Water, fructose, watermelon juice from concentrate (7.5%), concentrate (carrot, pumpkin, safflower, apple, lemon), stabiliser (locust bean gum), natural flavouring, acidity regulator (citric acid). May contain traces of allergens: milk, nuts and peanuts."        
+    }
+]
